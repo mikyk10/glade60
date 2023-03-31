@@ -1,5 +1,5 @@
 # TimberStream
-A compact 60% ortholinear keyboard fit into a GH60 case
+A compact 60% ortholinear Bluetooth keyboard fit into a GH60 case inspired by [Lumberjack keyboard](https://github.com/peej/lumberjack-keyboard)
 
 [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=TimberStream%20Foobar.&hashtags=Keyboard,Ortholinear&url=https://github.com/mikyk10/alfred-keepass) <img src="https://img.shields.io/github/last-commit/mikyk10/TimberStream"> <img src="https://img.shields.io/github/downloads/mikyk10/TimberStream/total">
 
