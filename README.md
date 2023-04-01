@@ -7,7 +7,25 @@ glade60 is a Bluetooth-enabled compact 60% ortholinear keyboard designed with in
 
 ## Features
 
-- TBD
+- 60% ortholinear keyboard
+- Bluetooth connectivity
+- Visible component in a standard 60% tray-mount case
+
+## Firmware
+
+Only ZMK can support this keyboard due to some license issues on QMK. 
+Please clone [this repository](https://github.com/peej/lumberjack-keyboard) and follow the instruction for the firmware. The main ZMK repository does not support "glade60" yet.
+
+## Component cover
+
+Cut a piece of 2mm thick acrylic to size (95x57mm) and drill 4 m2 holes in the corners for the standoffs. Use the PCB or cover.dxf as a guide for the hole positions, you can also use cover.dxf for laser cutting the correct size acrylic.
+
+Affix the 4 standoffs to the PCB with screws from underneath the PCB. Use the remaining 4 screws to attach the acrylic to the top of the standoffs.
+
+
+## Matrix information
+
+Please [refer this information](https://github.com/peej/lumberjack-keyboard#matrix-information) if you're willing to build your own firmware yourself.
 
 ## Limitation
 
