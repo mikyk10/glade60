@@ -1,7 +1,7 @@
-# TimberStream
-A compact 60% ortholinear Bluetooth keyboard fit into a GH60 case inspired by [Lumberjack keyboard](https://github.com/peej/lumberjack-keyboard)
+# glade60
+glade60 is a compact 60% ortholinear keyboard with Bluetooth connectivity that fits into a GH60 case. It is inspired by [Lumberjack keyboard](https://github.com/peej/lumberjack-keyboard)
 
-[![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=TimberStream%20Foobar.&hashtags=Keyboard,Ortholinear&url=https://github.com/mikyk10/alfred-keepass) <img src="https://img.shields.io/github/last-commit/mikyk10/TimberStream"> <img src="https://img.shields.io/github/downloads/mikyk10/TimberStream/total">
+[![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=glade60%20Foobar.&hashtags=Keyboard,Ortholinear&url=https://github.com/mikyk10/glade60) <img src="https://img.shields.io/github/last-commit/mikyk10/TimberStream"> <img src="https://img.shields.io/github/downloads/mikyk10/glade60/total">
 
 ![5eb0aea9-9dc9-471e-843d-44962f717dbe](https://user-images.githubusercontent.com/4987502/229085850-ff00d50f-7870-4583-8bd6-14ff64d83ad2.jpeg)
 
