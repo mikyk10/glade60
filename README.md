@@ -9,7 +9,7 @@ glade60 is a Bluetooth-enabled compact 60% ortholinear keyboard inspired by the 
 This is a work-in-progress project, and all information in this repository are not yet complete. I am in the process of designing and building the glade60, and everything in this repository is subject to change as I proceed development.
 Please note that some of artifacts in this repository may not yet be functional. 
 
-We welcome your feedback and contributions as I continue to develop this project. Please feel free to submit any issues or pull requests, and I will do my best to review them in a timely manner.
+I welcome your feedback and contributions as I continue to develop this project. Please feel free to submit any issues or pull requests, and I will do my best to review them in a timely manner.
 
 <img src="https://img.shields.io/github/last-commit/mikyk10/glade60"> <img src="https://img.shields.io/github/downloads/mikyk10/glade60/total">
 
