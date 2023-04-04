@@ -23,14 +23,11 @@ We welcome your feedback and contributions as I continue to develop this project
 
 ## Firmware
 
-Only ZMK can support this keyboard due to some license issues on QMK. 
-Please clone [this repository](https://github.com/peej/lumberjack-keyboard) and follow the instruction for the firmware. The main ZMK repository does not support "glade60" yet.
+TBD
 
 ## Component cover
 
-Cut a piece of 2mm thick acrylic to size (95x57mm) and drill 4 m2 holes in the corners for the standoffs. Use the PCB or cover.dxf as a guide for the hole positions, you can also use cover.dxf for laser cutting the correct size acrylic.
-
-Affix the 4 standoffs to the PCB with screws from underneath the PCB. Use the remaining 4 screws to attach the acrylic to the top of the standoffs.
+TBD
 
 ## Matrix information
 
@@ -40,12 +37,10 @@ Please [refer this information](https://github.com/peej/lumberjack-keyboard#matr
 
 The data *WILL BE* available in [OSHWLab](https://oshwlab.com/mikyk10/glade60)
 
-
-## Contribution
-I am very welcome any contributions to improve it. If you have any bug reports, feature requests, or code contributions, please open an issue or pull request on the GitHub repository.
-
 ## Disclaimer
 This Keyboard design is provided "as is" with no express or implied warranties. The author is not responsible for any liability arising from the use of this software. By using it, you agree to take full responsibility for any consequences that may arise.
 
 ## TODO
+
+* PCB Design
 * Write `README.md`
