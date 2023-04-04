@@ -38,7 +38,7 @@ Please [refer this information](https://github.com/peej/lumberjack-keyboard#matr
 
 ## PCB design
 
-The data is available in [OSHWLab](https://oshwlab.com/mikyk10/glade60)
+The data *WILL BE* available in [OSHWLab](https://oshwlab.com/mikyk10/glade60)
 
 
 ## Contribution
