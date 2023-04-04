@@ -22,18 +22,14 @@ Cut a piece of 2mm thick acrylic to size (95x57mm) and drill 4 m2 holes in the c
 
 Affix the 4 standoffs to the PCB with screws from underneath the PCB. Use the remaining 4 screws to attach the acrylic to the top of the standoffs.
 
-
 ## Matrix information
 
 Please [refer this information](https://github.com/peej/lumberjack-keyboard#matrix-information) if you're willing to build your own firmware yourself.
 
-## Limitation
+## PCB design
 
-- TBD
+The data is available in [OSHWLab](https://oshwlab.com/mikyk10/glade60)
 
-## Requirements
-
-- TBD
 
 ## Contribution
 I am very welcome any contributions to improve it. If you have any bug reports, feature requests, or code contributions, please open an issue or pull request on the GitHub repository.
