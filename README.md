@@ -20,6 +20,9 @@ I welcome your feedback and contributions as I continue to develop this project.
 - 60% ortholinear keyboard
 - Bluetooth connectivity
 - Visible component in a standard 60% tray-mount case
+- Designed for hand-solderble in mind
+- Some components include SMD, building difficulty is not very easy.
+- You must flash the Micro-controller with SWD interface before using the built device
 
 ## Firmware
 
