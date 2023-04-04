@@ -1,5 +1,5 @@
 # glade60
-glade60 is a Bluetooth-enabled compact 60% ortholinear keyboard designed with inspiration from the [Lumberjack keyboard](https://github.com/peej/lumberjack-keyboard). It is named "Glade" after the open space in a forest that lumberjack also has as their looks.
+glade60 is a Bluetooth-enabled compact 60% ortholinear keyboard inspired by the [Lumberjack keyboard](https://github.com/peej/lumberjack-keyboard). It is named "Glade" after the open space in a forest that the lumberjack also has as its looks.
 
 [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=glade60%20Foobar.&hashtags=Keyboard,Ortholinear&url=https://github.com/mikyk10/glade60) <img src="https://img.shields.io/github/last-commit/mikyk10/TimberStream"> <img src="https://img.shields.io/github/downloads/mikyk10/glade60/total">
 
