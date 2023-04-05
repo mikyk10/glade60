@@ -45,5 +45,6 @@ This Keyboard design is provided "as is" with no express or implied warranties. 
 
 ## TODO
 
-* PCB Design
-* Write `README.md`
+- [ ] PCB Design 
+- [ ] Write README.md
+- [ ] Firmware
