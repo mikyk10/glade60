@@ -13,7 +13,7 @@ I welcome your feedback and contributions as I continue to develop this project.
 
 <img src="https://img.shields.io/github/last-commit/mikyk10/glade60"> <img src="https://img.shields.io/github/downloads/mikyk10/glade60/total">
 
-<img width="1833" alt="Screen Shot 2023-04-04 at 23 15 40" src="https://user-images.githubusercontent.com/4987502/229821377-4dbd82de-0b73-4043-ab01-f0705e4ab858.png">
+![DSC09462](https://user-images.githubusercontent.com/4987502/233877066-e5c161a1-2b49-486d-8c7d-74a3800dddbb.JPG)
 
 ## Features
 
